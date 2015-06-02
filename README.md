@@ -1,4 +1,4 @@
 # opentm-calc
 ee calculators
 
-imanhabib.github.io/opentm-calc
+[link]: imanhabib.github.io/opentm-calc
